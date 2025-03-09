@@ -20,6 +20,8 @@ Make sure your pull request describes exactly what the code does and explains wh
 
 ## Credits & Third Party Components
 ### Developers:
+-I DIDNT CREATE ANY OF THIS!
+This is just a fork used for some bored dude.
 
 * [@TheJudge156](https://github.com/thejudge156) | Senior Maintainer
 
